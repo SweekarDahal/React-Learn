@@ -3,8 +3,15 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: white;
 }
 body {
   background-color: black;  
+  color: white;
+}
+.name {
+  color: red !important;
+  background-color: grey;
+  border: 5px solid red;
+  margin: 20px;
+  padding: 20px;
 }

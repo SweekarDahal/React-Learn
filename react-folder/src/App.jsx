@@ -1,17 +1,13 @@
-const App = () => {
+import React from 'react'
+import Card from './component/cards.jsx'
+
+function app() {
   return (
     <>
-      <div>
-        <h1>hello world!</h1>
-      </div>
-      <div>
-        <h1>My name is Sweekar Dahal</h1>
-        <div>
-          <h2>This is a Div created inside nother div</h2>
-        </div>
-      </div>
+    <Card />
     </>
   )
 }
 
-export default App
+export default app
+
