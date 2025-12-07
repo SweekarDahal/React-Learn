@@ -1,0 +1,9 @@
+.header {
+  margin: 10px;
+  background-color: lightseagreen;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 20px;
+}

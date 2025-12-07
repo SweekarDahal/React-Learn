@@ -64,6 +64,8 @@ function App() {
             location : 'Kerela, India'
       },
 
+      // 🔥 Added Below
+
       {
             logo : 'https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png',
             CName : 'Meta',

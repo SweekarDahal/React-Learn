@@ -71,6 +71,7 @@ body {
   color: gray;
   height: 0.8rem;
   width: 0.8rem;
+  fill: black;
 }
 .card-body {
   width: 100%;
