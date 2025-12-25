@@ -1,6 +1,5 @@
 import React from 'react'
 import Section1 from './assets/Components/Section1/Section1.jsx'
-import Section2 from './assets/Components/Section2/Section2.jsx'
 
 const App = () => {
 const users = [
@@ -45,7 +44,6 @@ const users = [
   return (
     <>
     <Section1 users = {users}/>
-    <Section2 />
     </>
   )
 }
