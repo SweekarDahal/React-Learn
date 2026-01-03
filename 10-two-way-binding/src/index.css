@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 2rem;
+  background-color: black;
+  color: white;
+}
+.form {
+  background-color: pink;
+  width: fit-content;
+  color: black;
+}
+
+input, button {
+  margin: 2rem;
+  padding: 10px 20px;
+}
+button {
+  background-color: blueviolet;
+  color: snow;
+  border-radius: 2rem;
+}
+input {
+  background-color: gray;
+  color: black;
+}
+input::placeholder {
+  color: red;
+}
