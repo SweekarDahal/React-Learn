@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 2rem;
+  background-color: black;
+  color: snow;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+button {
+  padding: 2rem;
+  border: 2px snow;
+  border-radius: 2rem;
+  background-color: red;
+}
